@@ -124,7 +124,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-date, .blog-description { color: #aeadad; font-size: 14px; font-weight: 600; line-height: 1; margin: 25px 0 0; }
 .post-date a, .blog-description a { color: #aeadad; }
 .post-date a:hover, .blog-description a:hover { color: #f03838; }
-.post-date:after, .blog-description:after { border-bottom: 1px dotted #303030; content: ""; display: block; margin: 40px auto 0; width: 100px; }
+.post-date:after, .blog-description:after { border-bottom: 0px dotted #303030; content: ""; display: block; margin: 40px auto 0; width: 100px; }
 .post-content a:hover { border-bottom: 1px dotted #f03838; padding: 0 0 2px; }
 .post-content:last-child { margin-bottom: 0; }
 .post-content .footnote { border-spacing: 0; margin-bottom: 0; }
