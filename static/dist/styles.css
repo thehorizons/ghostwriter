@@ -143,7 +143,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .newer-posts:hover, .older-posts:hover { background: #303030; }
 .page-number { display: none; }
 .post-list { list-style: none; padding: 0; }
-.post-stub { border-bottom: 1px dotted #303030; margin: 0; position: relative; }
+.post-stub { border-bottom: 1px solid #ddd; margin: 0; position: relative; }
 .post-stub:first-child { padding-top: 0; }
 .post-stub a { -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; transition: all .2s ease-in-out; display: block; color: #424242; padding: 20px 5px; }
 .post-stub a:hover { background: #fcf5f5; color: #f03838; padding: 20px 12px; }
